@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399404485999",
+    "project_id": "crypto-list-app-7bb94",
+    "storage_bucket": "crypto-list-app-7bb94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399404485999:android:870e76d3b089ab28546c9a",
+        "android_client_info": {
+          "package_name": "com.need4it.crypto_coins_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399404485999-phm5k1l1c3v7dhna0q65jo6kj2v2q16i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAscjstV5fd9dGZ1Up_oRZHPX4l438BKzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399404485999-phm5k1l1c3v7dhna0q65jo6kj2v2q16i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
